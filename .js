@@ -1,4 +1,4 @@
-// Check if the user is ready to play!
+// Checks if the user is ready to play!
 confirm("I am ready to play!");
 var age = prompt("What's your age");
 if (age < 13)
